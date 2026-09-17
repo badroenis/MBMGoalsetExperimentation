@@ -58,7 +58,7 @@ Open the cannons in X stages. Talking to the pink bob-omb in a stage counts as o
 
 </details>
 
-## Goals about multiple stars
+## Goals about multiple non-specific stars
 
 <details>
 <summary>X Stars</summary>
@@ -71,57 +71,6 @@ Collect a total of X Stars.
 <summary>All Stars in 2/3 Stages</summary>
 
 Collect all 7 stars in 2/3 different stages.
-
-</details>
-
-<details>
-<summary>2 Princess's Secret Slide Stars</summary>
-
-Collect both the box star and the under 21'0 star in PSS.
-
-</details>
-
-<details>
-<summary>Collect 2/3 Chest Stars</summary>
-
-Collect 2/3 treasure chest stars, which are JRB Ship, JRB Chests, DDD Chests.
-
-</details>
-
-<details>
-<summary>Collect 2/3/4 Shiny Secret Stars</summary>
-
-Collect 2/3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyramid Puzzle (SSL), Secrets in the Shallows & Sky (WDW), and Five Itty Bitty Secrets (THI).
-
-</details>
-
-<details>
-<summary>Unlock the BOB and LLL Shells</summary>
-
-In order for the small Koopa to spawn in BOB, you need to collect stars 1 and 2 (BOB King and Koopa the Quick).
-
-In order to spawn the ! box with the shell in LLL, you need to collect stars 1-4 (all four stars outside of the volcano).
-
-</details>
-
-<details>
-<summary>All three Bully stars</summary>
-
-Collect the following 3 stars: Boil the Big Bully (LLL), Bully the Bullies (LLL), and Chill with the Bully (SL).
-
-</details>
-
-<details>
-<summary>Collect 2/3 toad stars</summary>
-
-Collect 2/3 toad stars. The basement toad next to HMC spawns at 12 stars. The upstairs toad in front of TTM spawns at 25 stars. The tippy toad next to TTC spawns at 35 stars.
-
-</details>
-
-<details>
-<summary>Collect 2 Jetstream stars</summary>
-
-Collect both "Into the Jetstream (JRB)" and "Into the Jetstream (DDD)".
 
 </details>
 
@@ -143,38 +92,9 @@ Collect at least X stars from Y different stages. The possibilities are
 </details>
 
 <details>
-<summary>Star 1 from each stage</summary>
-
-Collect Star #1 in all 15 stages. These are:
-* BOB: Big Bob-omb on the Summit
-* WF: Chip off Whomp's Block
-* JRB: Plunder in the Sunken Ship
-* CCM: Slip Slidin' Away
-* BBH: Go on a Ghost Hunt
-* HMC: Swimming Beast in the Cavern
-* LLL: Boil the Big Bully
-* SSL: In the Talons of the Big Bird
-* DDD: Board Bowser's Sub
-* SL: Snowman's Big Head
-* WDW: Shocking Arrow Lifts!
-* TTM: Scale the Mountain
-* THI: Pluck the Piranha Flower
-* TTC: Roll into the Cage
-* RR: Cruiser Crossing the Rainbow
-
-</details>
-
-<details>
 <summary>At Least 1 Star From Each Stage</summary>
 
 Collect at least one star in all 15 stages. This can be any star.
-
-</details>
-
-<details>
-<summary>Obtain 1/2/3 Cap Red Coin Stars</summary>
-
-Obtain 1/2/3 Cap Red Coin Stars. You do not necessarily have to hit the cap switches.
 
 </details>
 
@@ -236,27 +156,6 @@ Collect a total of X red coin stars. These can be red coin stars from the main s
 </details>
 
 <details>
-<summary>2/3 Bowser Red Coin Stars</summary>
-
-Collect 2/3 Bowser stage red coin stars.
-
-</details>
-
-<details>
-<summary>Defeat 3/4 Unique Mini-Bosses</summary>
-
-Defeat 3/4 minibosses and collect their stars. The minibosses are BOB King, WF King, SSL Eyerok, and THI Wiggler.
-
-</details>
-
-<details>
-<summary>Win 2/3 Character Races</summary>
-
-Win 2/3 Character Races and collect the corresponding stars. The three races are Footrace with Koopa the Quick in BOB, Rematch with Koopa the Quick in THI, and Big Penguin Race in CCM.
-
-</details>
-
-<details>
 <summary>X Castle Secret Stars</summary>
 
 Collect X Castle Secret Stars. There are 15 total Castle Secret Stars: the 3 Bowser stage red coin stars, the 3 cap stage red coin stars, Secret Aquarium, Wing Mario over the Rainbow, both PSS stars, all 3 toad stars, and both MIPS stars.
@@ -274,6 +173,109 @@ Collect the 100 coin star in 3/4/5/6 different stages.
 <summary>5/6 Stars in [Stage A]</summary>
 
 Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star. This goal can appear for any of the 15 main stages with the exception of WF, LLL, and TTC.
+
+</details>
+
+## Goals about multiple specific stars
+
+<details>
+<summary>2 Princess's Secret Slide Stars</summary>
+
+Collect both the box star and the under 21'0 star in PSS.
+
+</details>
+
+<details>
+<summary>Collect 2/3 Chest Stars</summary>
+
+Collect 2/3 treasure chest stars, which are JRB Ship, JRB Chests, DDD Chests.
+
+</details>
+
+<details>
+<summary>Collect 2/3/4 Shiny Secret Stars</summary>
+
+Collect 2/3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyramid Puzzle (SSL), Secrets in the Shallows & Sky (WDW), and Five Itty Bitty Secrets (THI).
+
+</details>
+
+<details>
+<summary>Unlock the BOB and LLL Shells</summary>
+
+In order for the small Koopa to spawn in BOB, you need to collect stars 1 and 2 (BOB King and Koopa the Quick).
+
+In order to spawn the ! box with the shell in LLL, you need to collect stars 1-4 (all four stars outside of the volcano).
+
+</details>
+
+<details>
+<summary>All three Bully stars</summary>
+
+Collect the following 3 stars: Boil the Big Bully (LLL), Bully the Bullies (LLL), and Chill with the Bully (SL).
+
+</details>
+
+<details>
+<summary>Collect 2/3 toad stars</summary>
+
+Collect 2/3 toad stars. The basement toad next to HMC spawns at 12 stars. The upstairs toad in front of TTM spawns at 25 stars. The tippy toad next to TTC spawns at 35 stars.
+
+</details>
+
+<details>
+<summary>Collect 2 Jetstream stars</summary>
+
+Collect both "Into the Jetstream (JRB)" and "Into the Jetstream (DDD)".
+
+</details>
+
+<details>
+<summary>Star 1 from each stage</summary>
+
+Collect Star #1 in all 15 stages. These are:
+* BOB: Big Bob-omb on the Summit
+* WF: Chip off Whomp's Block
+* JRB: Plunder in the Sunken Ship
+* CCM: Slip Slidin' Away
+* BBH: Go on a Ghost Hunt
+* HMC: Swimming Beast in the Cavern
+* LLL: Boil the Big Bully
+* SSL: In the Talons of the Big Bird
+* DDD: Board Bowser's Sub
+* SL: Snowman's Big Head
+* WDW: Shocking Arrow Lifts!
+* TTM: Scale the Mountain
+* THI: Pluck the Piranha Flower
+* TTC: Roll into the Cage
+* RR: Cruiser Crossing the Rainbow
+
+</details>
+
+<details>
+<summary>Obtain 1/2/3 Cap Red Coin Stars</summary>
+
+Obtain 1/2/3 Cap Red Coin Stars. You do not necessarily have to hit the cap switches.
+
+</details>
+
+<details>
+<summary>2/3 Bowser Red Coin Stars</summary>
+
+Collect 2/3 Bowser stage red coin stars.
+
+</details>
+
+<details>
+<summary>Defeat 3/4 Unique Mini-Bosses</summary>
+
+Defeat 3/4 minibosses and collect their stars. The minibosses are BOB King, WF King, SSL Eyerok, and THI Wiggler.
+
+</details>
+
+<details>
+<summary>Win 2/3 Character Races</summary>
+
+Win 2/3 Character Races and collect the corresponding stars. The three races are Footrace with Koopa the Quick in BOB, Rematch with Koopa the Quick in THI, and Big Penguin Race in CCM.
 
 </details>
 
