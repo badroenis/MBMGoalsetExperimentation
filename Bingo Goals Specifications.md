@@ -14,7 +14,7 @@ Lose Mario's hat. You can do so in SSL, SL, and TTM.
 <details>
 <summary>Reach the Castle Roof</summary>
 
-Reach the Castle Roof. You can get up on the right side of the castle by doing a triple jump on the green slope and do a slide jump towards the castle. It is also possible to get up from the left side.
+Reach the Castle Roof. You can get up on back right corner of the castle by doing a triple jump on the green slope and sliding towards the castle.
 
 </details>
 
@@ -32,7 +32,7 @@ Open the cannons in X stages. Talking to the pink bob-omb in a stage counts as o
 * BOB
   * Requires beating the BOB King and selecting star 2 or later
 * WF
-  * Requires beating the WF King, collecting Top of the Fortress, and selecting star 3 or later
+  * Requires beating the WF King, collecting the tower star, and selecting star 3 or later
 * JRB
   * Requires collecting Plunder in the Sunken Ship and selecting star 2 or later
 * CCM
@@ -58,19 +58,12 @@ Open the cannons in X stages. Talking to the pink bob-omb in a stage counts as o
 
 </details>
 
-<details>
-<summary>Press the 3 Cap Switches</summary>
-
-Press the Wing Cap, Metal Cap, and Vanish Cap switches. You do not need to collect the star.
-
-</details>
-
-## Goals about multiple non-specific stars
+## Goals about multiple stars
 
 <details>
-<summary>20/25/30/35 Stars</summary>
+<summary>X Stars</summary>
 
-Collect a total of 20/25/30/35 Stars.
+Collect a total of X Stars.
 
 </details>
 
@@ -78,6 +71,57 @@ Collect a total of 20/25/30/35 Stars.
 <summary>All Stars in 2/3 Stages</summary>
 
 Collect all 7 stars in 2/3 different stages.
+
+</details>
+
+<details>
+<summary>2 Princess's Secret Slide Stars</summary>
+
+Collect both the box star and the under 21'0 star in PSS.
+
+</details>
+
+<details>
+<summary>Collect 2/3 Chest Stars</summary>
+
+Collect 2/3 treasure chest stars, which are JRB Ship, JRB Chests, DDD Chests.
+
+</details>
+
+<details>
+<summary>Collect 2/3/4 Shiny Secret Stars</summary>
+
+Collect 2/3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyramid Puzzle (SSL), Secrets in the Shallows & Sky (WDW), and Five Itty Bitty Secrets (THI).
+
+</details>
+
+<details>
+<summary>Unlock the BOB and LLL Shells</summary>
+
+In order for the small Koopa to spawn in BOB, you need to collect stars 1 and 2 (BOB King and Koopa the Quick).
+
+In order to spawn the ! box with the shell in LLL, you need to collect stars 1-4 (all four stars outside of the volcano).
+
+</details>
+
+<details>
+<summary>All three Bully stars</summary>
+
+Collect the following 3 stars: Boil the Big Bully (LLL), Bully the Bullies (LLL), and Chill with the Bully (SL).
+
+</details>
+
+<details>
+<summary>Collect 2/3 toad stars</summary>
+
+Collect 2/3 toad stars. The basement toad next to HMC spawns at 12 stars. The upstairs toad in front of TTM spawns at 25 stars. The tippy toad next to TTC spawns at 35 stars.
+
+</details>
+
+<details>
+<summary>Collect 2 Jetstream stars</summary>
+
+Collect both "Into the Jetstream (JRB)" and "Into the Jetstream (DDD)".
 
 </details>
 
@@ -128,9 +172,9 @@ Collect at least one star in all 15 stages. This can be any star.
 </details>
 
 <details>
-<summary>Obtain 2/3 Cap Red Coin Stars</summary>
+<summary>Obtain 1/2/3 Cap Red Coin Stars</summary>
 
-Obtain 2/3 Cap Red Coin Stars. You do not necessarily have to hit the cap switches.
+Obtain 1/2/3 Cap Red Coin Stars. You do not necessarily have to hit the cap switches.
 
 </details>
 
@@ -226,8 +270,6 @@ Collect the 100 coin star in 3/4/5/6 different stages.
 
 </details>
 
-## Goals about multiple non-specific stars from specific stages
-
 <details>
 <summary>5/6 Stars in [Stage A]</summary>
 
@@ -241,66 +283,6 @@ Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star.
 Collect all 7 Stars (including the 100 coin star) in [Stage A]. This goal can appear for any of the 15 main stages.
 
 </details>
-
-## Goals about multiple specific stars
-
-<details>
-<summary>Both Princess's Secret Slide Stars</summary>
-
-Collect both the box star and the under 21'0 star in PSS.
-
-</details>
-
-<details>
-<summary>Collect 2/3 Chest Stars</summary>
-
-Collect 2/3 treasure chest stars, which are JRB Ship, JRB Chests, DDD Chests.
-
-</details>
-
-<details>
-<summary>Collect 2/3/4 Shiny Secret Stars</summary>
-
-Collect 2/3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyramid Puzzle (SSL), Secrets in the Shallows & Sky (WDW), and Five Itty Bitty Secrets (THI).
-
-</details>
-
-<details>
-<summary>Unlock the BOB and LLL Shells</summary>
-
-In order for the small Koopa to spawn in BOB, you need to collect stars 1 and 2 (BOB King and Koopa the Quick).
-
-In order to spawn the ! box with the shell in LLL, you need to collect stars 1-4 (all four stars outside of the volcano).
-
-</details>
-
-<details>
- <summary>Unlock the WF Owl (or just Top of the Fortress (WF)</summary>
-
- In order for the owl to spawn in WF, you need to collect WF King and Top of the Fortress.
-</details>
-
-<details>
-<summary>All 3 Bully Stars</summary>
-
-Collect the following 3 stars: Boil the Big Bully (LLL), Bully the Bullies (LLL), and Chill with the Bully (SL).
-
-</details>
-
-<details>
-<summary>Collect 2/3 Toad Stars</summary>
-
-Collect 2/3 toad stars. The basement toad next to HMC spawns at 12 stars. The upstairs toad in front of TTM spawns at 25 stars. The tippy toad next to TTC spawns at 35 stars.
-
-</details>
-
-<details>
-<summary>Collect 2 Jet Stream stars</summary>
-
-Collect both "Into the Jet Stream (JRB)" and "Into the Jet Stream (DDD)".
-
-</details>
-
 
 ## Single Star Objectives
 
