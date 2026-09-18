@@ -2,7 +2,7 @@
 
 Here is a list of all of the goals and a description of what they mean. X here can be any number that is allowed in the goalsets. Having "/" means these are possible numbers, so "All Stars in 2/3 Stages" means this goal can either appear as 2 or 3 Stages.  Please feel free to reach out to us if you want any clarifications.
 
-## Goals that don't require collecting stars
+## Goals Without Stars
 
 <details>
 <summary>Reach the Castle Roof</summary>
@@ -68,12 +68,29 @@ Open the cannons in 3/4/5/6/7/8/9/10 stages. Talking to the pink bob-omb in a st
 Press the Wing Cap, Metal Cap, and Vanish Cap switches. You do not need to collect the stars. 
 </details>
 
-## Goals about multiple non-specific stars
+## Goals About Multiple Non-Specific Stars
 
 <details>
 <summary>X Stars</summary>
 
 Collect a total of 25/30/35 Stars.
+
+</details>
+
+<details>
+<summary>Collect 120/130/140 Coins in X stage(s)</summary>
+
+Collect a star in X stage(s) while having at least 120/130/140 coins. The fastest and easiest stage to do this in is WF. Other good options are WDW, BBH, and CCM.
+* 120 Coins in 2/3 Stages
+* 130 Coins in 1/2 Stage(s)
+* 140 Coins in 1/2 Stage(s)
+
+</details>
+
+<details>
+<summary>X 100 Coin Stars</summary>
+
+Collect the 100 coin star in 3/4/5 different stages.
 
 </details>
 
@@ -85,12 +102,24 @@ Collect all 7 stars in 2/3 different stages.
 </details>
 
 <details>
-<summary>Collect 120/130/140 Coins in X stage(s)</summary>
+<summary>5/6 Stars in [Stage A]</summary>
 
-Collect a star in X stage(s) while having at least 120/130/140 coins. The fastest and easiest stage to do this in is WF. Other good options are WDW, BBH, and CCM.
-* 120 Coins in 2/3 Stages
-* 130 Coins in 1/2 Stage(s)
-* 140 Coins in 1/2 Stage(s)
+Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star. This goal can appear for any of the 15 main stages with the exception of WF, CCM, and LLL.
+
+</details>
+
+<details>
+<summary>Collect 3/4 Stars from both [Stage A] and [Stage B]</summary>
+
+Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in the goal. The possible pairs are:
+* SL and WDW
+* TTC and RR
+* TTM and THI
+* BOB and CCM
+* BBH and LLL
+* JRB and BBH
+* JRB and DDD
+* HMC and SSL
 
 </details>
 
@@ -140,21 +169,6 @@ Collect 1 Star in each of these 6 stages: SL, TTM, WDW, THI, TTC, RR.
 </details>
 
 <details>
-<summary>Collect 3/4 Stars from both [Stage A] and [Stage B]</summary>
-
-Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in the goal. The possible pairs are:
-* SL and WDW
-* TTC and RR
-* TTM and THI
-* BOB and CCM
-* BBH and LLL
-* JRB and BBH
-* JRB and DDD
-* HMC and SSL
-
-</details>
-
-<details>
 <summary>Collect X Red Coin Stars From Main Stages</summary>
 
 Each of the 15 main stages has a star from collecting 8 red coins. Collect the red coin star in 3/4/5/6/7/8 of the main stages.
@@ -175,40 +189,12 @@ Collect 5/6/8/9/11/12 Castle Secret Stars. There are 15 total Castle Secret Star
 
 </details>
 
-<details>
-<summary>X 100 Coin Stars</summary>
-
-Collect the 100 coin star in 3/4/5 different stages.
-
-</details>
+## Goals About Multiple Specific Stars
 
 <details>
-<summary>5/6 Stars in [Stage A]</summary>
+<summary>All 7 Stars in [Stage A]</summary>
 
-Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star. This goal can appear for any of the 15 main stages with the exception of WF, CCM, and LLL.
-
-</details>
-
-## Goals about multiple specific stars
-
-<details>
-<summary>2 Princess's Secret Slide Stars</summary>
-
-Collect both the [!] box star and the Under 21'0 star in PSS.
-
-</details>
-
-<details>
-<summary>Collect 2/3 Chest Stars</summary>
-
-Collect 2/3 treasure chest stars, which are Plunder in the Sunken Ship (JRB), Treasure of the Ocean Cave (JRB), and Chests in the Current (DDD).
-
-</details>
-
-<details>
-<summary>Collect 3/4 Shiny Secret Stars</summary>
-
-Collect 3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyramid Puzzle (SSL), Secrets in the Shallows & Sky (WDW), and Five Itty Bitty Secrets (THI).
+Collect all 7 Stars (including the 100 coin star) in [Stage A]. This goal can appear for any of the 15 main stages.
 
 </details>
 
@@ -236,9 +222,9 @@ Collect the following 3 stars: Boil the Big Bully (LLL), Bully the Bullies (LLL)
 </details>
 
 <details>
-<summary>Collect 2/3 Toad stars</summary>
+<summary>Collect 2/3 Chest Stars</summary>
 
-Collect 2/3 Toad stars. The basement toad next to HMC spawns at 12 stars. The upstairs toad in front of TTM spawns at 25 stars. The tippy toad next to TTC spawns at 35 stars.
+Collect 2/3 treasure chest stars, which are Plunder in the Sunken Ship (JRB), Treasure of the Ocean Cave (JRB), and Chests in the Current (DDD).
 
 </details>
 
@@ -262,16 +248,9 @@ Collect Star #1 in the 5 lobby stages. These are:
 </details>
 
 <details>
-<summary>Obtain 2/3 Cap Red Coin Stars</summary>
+<summary>Collect 3/4 Shiny Secret Stars</summary>
 
-Obtain 2/3 Cap Red Coin Stars. You do not have to hit the cap switches.
-
-</details>
-
-<details>
-<summary>2/3 Bowser Red Coin Stars</summary>
-
-Collect 2/3 Bowser stage red coin stars.
+Collect 3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyramid Puzzle (SSL), Secrets in the Shallows & Sky (WDW), and Five Itty Bitty Secrets (THI).
 
 </details>
 
@@ -290,13 +269,41 @@ Win 2/3 Character Races and collect the corresponding stars. The three races are
 </details>
 
 <details>
-<summary>All 7 Stars in [Stage A]</summary>
+<summary>2 Princess's Secret Slide Stars</summary>
 
-Collect all 7 Stars (including the 100 coin star) in [Stage A]. This goal can appear for any of the 15 main stages.
+Collect both the [!] box star and the Under 21'0 star in PSS.
 
 </details>
 
-## Single Star Objectives
+<details>
+<summary>Collect 2/3 Toad stars</summary>
+
+Collect 2/3 Toad stars. The basement toad next to HMC spawns at 12 stars. The upstairs toad in front of TTM spawns at 25 stars. The tippy toad next to TTC spawns at 35 stars.
+
+</details>
+
+<details>
+<summary>Obtain 2/3 Cap Red Coin Stars</summary>
+
+Obtain 2/3 Cap Red Coin Stars. You do not have to hit the cap switches.
+
+</details>
+
+<details>
+<summary>2/3 Bowser Red Coin Stars</summary>
+
+Collect 2/3 Bowser stage red coin stars.
+
+</details>
+
+## Goals About Single Stars
+
+<details>
+<summary>100 Coin Star in [Stage A]</summary>
+
+Collect the 100 coin star in [Stage A]. This can appear for any of the 15 main stages.
+
+</details>
 
 <details>
 <summary>Footrace With Koopa the Quick (BOB)</summary>
@@ -533,12 +540,5 @@ Collect the Bowser in the Fire Sea Red Coin Star.
 <summary>Bowser in the Sky Red Coin Star</summary>
 
 Collect the Bowser in the Sky Red Coin Star.
-
-</details>
-
-<details>
-<summary>100 Coin Star in [Stage A]</summary>
-
-Collect the 100 coin star in [Stage A]. This can appear for any of the 15 main stages.
 
 </details>
