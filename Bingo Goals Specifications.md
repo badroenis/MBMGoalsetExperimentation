@@ -194,7 +194,7 @@ Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star.
 <details>
 <summary>2 Princess's Secret Slide Stars</summary>
 
-Collect both the box star and the Under 21'0 star in PSS.
+Collect both the [!] box star and the Under 21'0 star in PSS.
 
 </details>
 
@@ -206,9 +206,9 @@ Collect 2/3 treasure chest stars, which are Plunder in the Sunken Ship (JRB), Tr
 </details>
 
 <details>
-<summary>Collect 2/3/4 Shiny Secret Stars</summary>
+<summary>Collect 3/4 Shiny Secret Stars</summary>
 
-Collect 2/3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyramid Puzzle (SSL), Secrets in the Shallows & Sky (WDW), and Five Itty Bitty Secrets (THI).
+Collect 3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyramid Puzzle (SSL), Secrets in the Shallows & Sky (WDW), and Five Itty Bitty Secrets (THI).
 
 </details>
 
@@ -217,7 +217,14 @@ Collect 2/3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyrami
 
 In order for the small Koopa to spawn in BOB, you need to collect stars 1 and 2 (BOB King and Koopa the Quick).
 
-In order to spawn the ! box with the shell in LLL, you need to collect stars 1-4 (all four stars outside of the volcano).
+In order to spawn the [!] box with the shell in LLL, you need to collect stars 1-4 (all four stars outside of the volcano).
+
+</details>
+
+<details>
+<summary>Unlock the WF Owl</summary>
+
+In order for the owl spawn in BOB, you need to collect stars 1 and 2 (WF King and To the Top of the Fortress). (This goal could also just be the fortress star)
 
 </details>
 
@@ -255,9 +262,9 @@ Collect Star #1 in the 5 lobby stages. These are:
 </details>
 
 <details>
-<summary>Obtain 1/2/3 Cap Red Coin Stars</summary>
+<summary>Obtain 2/3 Cap Red Coin Stars</summary>
 
-Obtain 1/2/3 Cap Red Coin Stars. You do not necessarily have to hit the cap switches.
+Obtain 2/3 Cap Red Coin Stars. You do not have to hit the cap switches.
 
 </details>
 
@@ -271,7 +278,7 @@ Collect 2/3 Bowser stage red coin stars.
 <details>
 <summary>Defeat 3/4 Unique Mini-Bosses</summary>
 
-Defeat 3/4 minibosses and collect their stars. The minibosses are BOB King, WF King, SSL Eyerok, and THI Wiggler.
+Defeat 3/4 mini-bosses and collect their stars. The mini-bosses are BOB King, WF King, SSL Eyerok, and THI Wiggler.
 
 </details>
 
