@@ -32,7 +32,7 @@ Reach 20/25/30/35 Lives displayed in the top left HUD.
 <details>
 <summary>Open X Cannons</summary>
 
-Open the cannons in 3/4/5/6/7/8/10/11 stages. Talking to the pink bob-omb in a stage counts as one cannon. There are 11 stages with cannons.
+Open the cannons in 3/4/5/6/7/8/9/10 stages. Talking to the pink bob-omb in a stage counts as one cannon. There are 11 stages with cannons.
 * BOB
   * Requires collecting Big Bob-omb on the Summit and selecting star 2 or later
 * WF
@@ -60,6 +60,12 @@ Open the cannons in 3/4/5/6/7/8/10/11 stages. Talking to the pink bob-omb in a s
   * Cannon is always available to open
   * [Fastest way to stay in tippy is to die](https://youtu.be/g9ty6UQx0RI?si=eAt_5r0Kf_g08sea)
 
+</details>
+
+<details>
+<summary>Press the 3 Cap Switches</summary>
+
+Press the Wing Cap, Metal Cap, and Vanish Cap switches. You do not need to collect the stars. 
 </details>
 
 ## Goals about multiple non-specific stars
