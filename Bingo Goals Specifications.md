@@ -5,21 +5,25 @@ Here is a list of all of the goals and a description of what they mean. X here c
 ## Goals that don't require collecting stars
 
 <details>
+<summary>Reach the Castle Roof</summary>
+
+Reach the Castle Roof. You can get up on the right side of the castle by doing a triple jump off the green slope and slide jumping towards the castle. It is also possible and slightly faster to get up on the left side.
+
+</details>
+
+<details>
 <summary>Lose Mario's Hat</summary>
 
 Lose Mario's hat. You can do so in SSL, SL, and TTM.
+* Taken by Klepto in SSL (on star 2 or later)
+* Blown off by the big snowman's head in SL
+* Taken by Ukiki in TTM
+* Blown off by Fwoosh in TTM
 
 </details>
 
 <details>
-<summary>Reach the Castle Roof</summary>
-
-Reach the Castle Roof. You can get up on back right corner of the castle by doing a triple jump on the green slope and sliding towards the castle.
-
-</details>
-
-<details>
-<summary>Obtain 20/25/30/35 Lives</summary>
+<summary>Obtain X Lives</summary>
 
 Reach 20/25/30/35 Lives displayed in the top left HUD.
 
@@ -28,11 +32,11 @@ Reach 20/25/30/35 Lives displayed in the top left HUD.
 <details>
 <summary>Open X Cannons</summary>
 
-Open the cannons in X stages. Talking to the pink bob-omb in a stage counts as one cannon. There are 11 stages with cannons.
+Open the cannons in 3/4/5/6/7/8/10/11 stages. Talking to the pink bob-omb in a stage counts as one cannon. There are 11 stages with cannons.
 * BOB
-  * Requires beating the BOB King and selecting star 2 or later
+  * Requires collecting Big Bob-omb on the Summit and selecting star 2 or later
 * WF
-  * Requires beating the WF King, collecting the tower star, and selecting star 3 or later
+  * Requires collecting Chip Off Whomp's Block, To the Top of the Fortress, and selecting star 3 or later
 * JRB
   * Requires collecting Plunder in the Sunken Ship and selecting star 2 or later
 * CCM
@@ -50,11 +54,11 @@ Open the cannons in X stages. Talking to the pink bob-omb in a stage counts as o
   * [Cool movement to get up](https://www.youtube.com/watch?v=VcmgNZyMVjg)
 * THI
   * Cannon is always available to open
+* RR
+  * Cannon is always available to open
 * Wing Mario Over the Rainbow
   * Cannon is always available to open
   * [Fastest way to stay in tippy is to die](https://youtu.be/g9ty6UQx0RI?si=eAt_5r0Kf_g08sea)
-* RR
-  * Cannon is always available to open
 
 </details>
 
@@ -63,7 +67,7 @@ Open the cannons in X stages. Talking to the pink bob-omb in a stage counts as o
 <details>
 <summary>X Stars</summary>
 
-Collect a total of X Stars.
+Collect a total of 20/25/30/35 Stars.
 
 </details>
 
@@ -77,7 +81,7 @@ Collect all 7 stars in 2/3 different stages.
 <details>
 <summary>Collect 120/130/140 Coins in X stage(s)</summary>
 
-Collect a star in X stage(s) while having at least 120/130/140 coins. The most common stage (and easiest) to do this in is WF. Other good options are WDW, BBH, and CCM.
+Collect a star in X stage(s) while having at least 120/130/140 coins. The fastest and easiest stage to do this in is WF. Other good options are WDW, BBH, and CCM.
 
 </details>
 
@@ -144,26 +148,26 @@ Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in th
 <details>
 <summary>Collect X Red Coin Stars From Main Stages</summary>
 
-Each of the 15 main stages has a star from collecting 8 red coins. Collect the red coin star in X of the main stages.
+Each of the 15 main stages has a star from collecting 8 red coins. Collect the red coin star in 3/4/5/6/7/8/9 of the main stages.
 
 </details>
 
 <details>
 <summary>Collect X Red Coin Stars</summary>
 
-Collect a total of X red coin stars. These can be red coin stars from the main stages or any of the secret stars that spawn from collecting 8 red coins. These include the 3 Bowser stages, the 3 cap stages, Secret Aquarium, and Wing Mario over the Rainbow (cloud stage).
+Collect a total of 5/6/8/9/11/12 red coin stars. These can be red coin stars from the main stages or any of the secret stars that spawn from collecting 8 red coins. These include the 3 Bowser stages, the 3 cap stages, Secret Aquarium, and Wing Mario over the Rainbow (cloud stage).
 
 </details>
 
 <details>
 <summary>X Castle Secret Stars</summary>
 
-Collect X Castle Secret Stars. There are 15 total Castle Secret Stars: the 3 Bowser stage red coin stars, the 3 cap stage red coin stars, Secret Aquarium, Wing Mario over the Rainbow, both PSS stars, all 3 toad stars, and both MIPS stars.
+Collect 5/6/8/9/11/12 Castle Secret Stars. There are 15 total Castle Secret Stars: 3 Bowser stage red coin stars, 3 cap stage red coin stars, The Secret Aquarium, Wing Mario Over the Rainbow, 2 Princess's Secret Slide stars, 3 Toad stars, and 2 MIPS stars.
 
 </details>
 
 <details>
-<summary>3/4/5/6 100 Coin Stars</summary>
+<summary>X 100 Coin Stars</summary>
 
 Collect the 100 coin star in 3/4/5/6 different stages.
 
@@ -181,14 +185,14 @@ Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star.
 <details>
 <summary>2 Princess's Secret Slide Stars</summary>
 
-Collect both the box star and the under 21'0 star in PSS.
+Collect both the box star and the Under 21'0 star in PSS.
 
 </details>
 
 <details>
 <summary>Collect 2/3 Chest Stars</summary>
 
-Collect 2/3 treasure chest stars, which are JRB Ship, JRB Chests, DDD Chests.
+Collect 2/3 treasure chest stars, which are Plunder in the Sunken Ship (JRB), Treasure of the Ocean Cave (JRB), and Chests in the Current (DDD).
 
 </details>
 
@@ -209,23 +213,23 @@ In order to spawn the ! box with the shell in LLL, you need to collect stars 1-4
 </details>
 
 <details>
-<summary>All three Bully stars</summary>
+<summary>All 3 Bully stars</summary>
 
 Collect the following 3 stars: Boil the Big Bully (LLL), Bully the Bullies (LLL), and Chill with the Bully (SL).
 
 </details>
 
 <details>
-<summary>Collect 2/3 toad stars</summary>
+<summary>Collect 2/3 Toad stars</summary>
 
-Collect 2/3 toad stars. The basement toad next to HMC spawns at 12 stars. The upstairs toad in front of TTM spawns at 25 stars. The tippy toad next to TTC spawns at 35 stars.
+Collect 2/3 Toad stars. The basement toad next to HMC spawns at 12 stars. The upstairs toad in front of TTM spawns at 25 stars. The tippy toad next to TTC spawns at 35 stars.
 
 </details>
 
 <details>
-<summary>Collect 2 Jetstream stars</summary>
+<summary>Collect 2 Jet Stream stars</summary>
 
-Collect both "Into the Jetstream (JRB)" and "Into the Jetstream (DDD)".
+Collect both "Into the Jet Stream (JRB)" and "Into the Jet Stream (DDD)".
 
 </details>
 
@@ -275,7 +279,7 @@ Defeat 3/4 minibosses and collect their stars. The minibosses are BOB King, WF K
 <details>
 <summary>Win 2/3 Character Races</summary>
 
-Win 2/3 Character Races and collect the corresponding stars. The three races are Footrace with Koopa the Quick in BOB, Rematch with Koopa the Quick in THI, and Big Penguin Race in CCM.
+Win 2/3 Character Races and collect the corresponding stars. The three races are Footrace with Koopa the Quick (BOB), Big Penguin Race (CCM), and Rematch with Koopa the Quick (THI).
 
 </details>
 
@@ -305,7 +309,7 @@ Collect the red coin star in BOB.
 <details>
 <summary>Mario Wings to the Sky (BOB)</summary>
 
-Collect the shiny secrets star in BOB. This requires opening the cannon unless you want to do some really hard flying.
+Collect the shiny secrets star in BOB. This requires Wing Cap and opening the cannon (on star 2 or later) unless you want to do some really hard flying / cannon shots.
 
 </details>
 
@@ -326,14 +330,14 @@ Collect the red coin star in JRB.
 <details>
 <summary>Can the Eel Come out and Play (JRB)</summary>
 
-Collect "Can the Eel Come out and Play" in JRB. This requires collecting "Plunder in the Sunken Ship" and selecting a star after Star 1.
+Collect "Can the Eel Come out and Play" in JRB. This requires collecting "Plunder in the Sunken Ship" and selecting a star 2 or later.
 
 </details>
 
 <details>
 <summary>Big Penguin Race (CCM)</summary>
 
-Beat the Big Penguin in CCM and collect the star. This requires collecting "Slip Slidin' Away" and selecting a star after Star 1.
+Beat the Big Penguin in CCM and collect the star. This requires collecting "Slip Slidin' Away" and selecting star 2 or later.
 
 </details>
 
@@ -452,7 +456,7 @@ Collect the vanish cap star in WDW.
 <details>
 <summary>Mystery of the Monkey Cage (TTM)</summary>
 
-Collect Mystery of the Monkey Cage in TTM. This requires collecting "Scale the Mountain" and selecting a star after Star 1.
+Collect Mystery of the Monkey Cage in TTM. This requires collecting "Scale the Mountain" and selecting star 2 or later.
 
 </details>
 
@@ -466,7 +470,7 @@ Collect the red coin star in TTM.
 <details>
 <summary>Rematch with Koopa the Quick (THI)</summary>
 
-Win the race against Koopa the Quick in THI and collect the star.
+Win the race against Koopa the Quick in THI and collect the star. This requires collecting Piranhas and Top of the Mountain and selecting star 3 or later.
 
 </details>
 
