@@ -73,7 +73,7 @@ Press the Wing Cap, Metal Cap, and Vanish Cap switches. You do not need to colle
 <details>
 <summary>X Stars</summary>
 
-Collect a total of 20/25/30/35 Stars.
+Collect a total of 25/30/35 Stars.
 
 </details>
 
@@ -88,16 +88,19 @@ Collect all 7 stars in 2/3 different stages.
 <summary>Collect 120/130/140 Coins in X stage(s)</summary>
 
 Collect a star in X stage(s) while having at least 120/130/140 coins. The fastest and easiest stage to do this in is WF. Other good options are WDW, BBH, and CCM.
+* 120 Coins in 2/3 Stages
+* 130 Coins in 1/2 Stage(s)
+* 140 Coins in 1/2 Stage(s)
 
 </details>
 
 <details>
 <summary>At least X stars from Y stages</summary>
 
-Collect at least X stars from Y different stages. The possibilities are
-* 2 stars in 8/9/10/11 stages
-* 3 stars in 4/5/6/7/8 stages
-* 4 stars in 3/4/5 stages
+Collect at least X stars from Y different stages. The possibilities are:
+* 2 stars from 8/9/10/11/12 stages
+* 3 stars from 4/5/6/7/8 stages
+* 4 stars from 3/4/5/6 stages (removed 7, 6/7 -_- was not listed here before)
 
 </details>
 
@@ -139,7 +142,7 @@ Collect 1 Star in each of these 6 stages: SL, TTM, WDW, THI, TTC, RR.
 <details>
 <summary>Collect 3/4 Stars from both [Stage A] and [Stage B]</summary>
 
-Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in the goal. The possible pairs are
+Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in the goal. The possible pairs are:
 * SL and WDW
 * TTC and RR
 * TTM and THI
@@ -154,7 +157,7 @@ Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in th
 <details>
 <summary>Collect X Red Coin Stars From Main Stages</summary>
 
-Each of the 15 main stages has a star from collecting 8 red coins. Collect the red coin star in 3/4/5/6/7/8/9 of the main stages.
+Each of the 15 main stages has a star from collecting 8 red coins. Collect the red coin star in 3/4/5/6/7/8 of the main stages.
 
 </details>
 
@@ -175,14 +178,14 @@ Collect 5/6/8/9/11/12 Castle Secret Stars. There are 15 total Castle Secret Star
 <details>
 <summary>X 100 Coin Stars</summary>
 
-Collect the 100 coin star in 3/4/5/6 different stages.
+Collect the 100 coin star in 3/4/5 different stages.
 
 </details>
 
 <details>
 <summary>5/6 Stars in [Stage A]</summary>
 
-Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star. This goal can appear for any of the 15 main stages with the exception of WF, LLL, and TTC.
+Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star. This goal can appear for any of the 15 main stages with the exception of WF, CCM, and LLL.
 
 </details>
 
@@ -240,24 +243,14 @@ Collect both "Into the Jet Stream (JRB)" and "Into the Jet Stream (DDD)".
 </details>
 
 <details>
-<summary>Star 1 from each stage</summary>
+<summary>Star 1 from each stage in the castle lobby</summary>
 
-Collect Star #1 in all 15 stages. These are:
+Collect Star #1 in the 5 lobby stages. These are:
 * BOB: Big Bob-omb on the Summit
 * WF: Chip off Whomp's Block
 * JRB: Plunder in the Sunken Ship
 * CCM: Slip Slidin' Away
 * BBH: Go on a Ghost Hunt
-* HMC: Swimming Beast in the Cavern
-* LLL: Boil the Big Bully
-* SSL: In the Talons of the Big Bird
-* DDD: Board Bowser's Sub
-* SL: Snowman's Big Head
-* WDW: Shocking Arrow Lifts!
-* TTM: Scale the Mountain
-* THI: Pluck the Piranha Flower
-* TTC: Roll into the Cage
-* RR: Cruiser Crossing the Rainbow
 
 </details>
 
