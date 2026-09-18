@@ -299,9 +299,9 @@ Collect all 7 Stars (including the 100 coin star) in [Stage A]. This goal can ap
 ## Single Star Objectives
 
 <details>
-<summary>Big Bob-omb on the Summit</summary>
+<summary>Footrace With Koopa the Quick (BOB)</summary>
 
-Defeat the BOB King and collect the star.
+Beat the Koopa in BOB and collect the star. This requires collecting "Big Bob-omb on the Summit" and selecting star 2 or later.
 
 </details>
 
@@ -329,7 +329,7 @@ Collect the red coin star in WF.
 <details>
 <summary>Red Coins on the Ship Afloat (JRB)</summary>
 
-Collect the red coin star in JRB.
+Collect the red coin star in JRB. This requires collecting "Plunder in the Sunken Ship" and selecting a star 2 or later.
 
 </details>
 
@@ -364,7 +364,7 @@ Collect Snowman's Lost his Head in CCM. This requires collecting stars 1-4 and s
 <details>
 <summary>Ride Big Boo's Merry-Go-Round (BBH)</summary>
 
-Collect the Merry-Go-Round Star in BBH. This requires collecting "Go on a Ghost Hunt" first and selecting a star after Star 1.
+Collect the Merry-Go-Round Star in BBH. This requires collecting "Go on a Ghost Hunt" first and selecting a star 1 or later.
 
 </details>
 
@@ -390,16 +390,9 @@ Collect the red coin star in HMC.
 </details>
 
 <details>
-<summary>Navigating the Toxic Maze (HMC)</summary>
-
-Collect "Navigating the Toxic Maze" in HMC. This is the toxic maze BLJ star.
-
-</details>
-
-<details>
 <summary>Stand Tall on the Four Pillars (SSL)</summary>
 
-Collect the star "Stand Tall on Four Pillars" in SSL. This is the Eyerok star.
+Collect the star "Stand Tall on Four Pillars" in SSL. This is the Eyerok mini-boss star.
 
 </details>
 
@@ -439,13 +432,6 @@ Collect the star in the igloo in SL. This star requires the vanish cap.
 </details>
 
 <details>
-<summary>Secrets in the Shallows and Sky (WDW)</summary>
-
-Collect the shiny secrets star in WDW.
-
-</details>
-
-<details>
 <summary>Go to Town for 8 Red Coins (WDW)</summary>
 
 Red Coin Star in WDW
@@ -481,13 +467,6 @@ Win the race against Koopa the Quick in THI and collect the star. This requires 
 </details>
 
 <details>
-<summary>Five Itty Bitty Secrets (THI)</summary>
-
-Collect the shiny secrets star in THI.
-
-</details>
-
-<details>
 <summary>Wiggler's Red Coins (THI)</summary>
 
 Collect the red coin star in THI.
@@ -497,14 +476,28 @@ Collect the red coin star in THI.
 <details>
 <summary>Make Wiggler Squirm (THI)</summary>
 
-Defeat Wiggler in THI and collect the star.
+Defeat the Wiggler mini-boss in THI and collect the star.
 
 </details>
 
 <details>
-<summary>Cruiser Crossing the Rainbow (RR)</summary>
+<summary>Stop Time for Red Coins (TTC)</summary>
 
-Collect the star at the front end of the cruiser in RR.
+Collect the red coin star in TTC.
+
+</details>
+
+<details>
+<summary>Coins Amassed in a Maze (RR)</summary>
+
+Collect the red coin star in RR.
+
+</details>
+
+<details>
+<summary>The Big House in the Sky (RR)</summary>
+
+Collect the star at the top of the castle in RR. This is the long carpet ride or Carpetless star.
 
 </details>
 
