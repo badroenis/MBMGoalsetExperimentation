@@ -32,11 +32,11 @@ Reach 20/25/30/35 Lives displayed in the top left HUD.
 <details>
 <summary>Open X Cannons</summary>
 
-Open the cannons in 3/4/5/6/7/8/9/10 stages. Talking to the pink bob-omb in a stage counts as one cannon. There are 11 stages with cannons.
+Open the cannons in 3/4/6/7/9/10 stages. Talking to the pink bob-omb in a stage counts as one cannon. There are 11 stages with cannons.
 * BOB
   * Requires collecting Big Bob-omb on the Summit and selecting star 2 or later
 * WF
-  * Requires collecting Chip Off Whomp's Block, To the Top of the Fortress, and selecting star 3 or later
+  * Requires collecting Chip Off Whomp's Block and To the Top of the Fortress, and selecting star 3 or later
 * JRB
   * Requires collecting Plunder in the Sunken Ship and selecting star 2 or later
 * CCM
@@ -45,7 +45,7 @@ Open the cannons in 3/4/5/6/7/8/9/10 stages. Talking to the pink bob-omb in a st
   * Cannon is always available to open
   * Talking to the pink bob-omb with star 2 or later selected will result in the bird stealing your hat during the cutscene. This can be inconvenient but also used intentionally.
 * SL
-  * Cannon is always available to open
+  * Cannon is always available to open (and has no cutscene)
 * WDW
   * Cannon is always available to open
   * Easiest method is to enter the on the highest water level, you can [collect "Shocking Arrow Lifts!" after](https://youtu.be/m9zzdgPf3z0?si=LtB9LVP4c3SPBjiR).
@@ -53,7 +53,7 @@ Open the cannons in 3/4/5/6/7/8/9/10 stages. Talking to the pink bob-omb in a st
   * Cannon is always available to open
   * [Cool movement to get up](https://www.youtube.com/watch?v=VcmgNZyMVjg)
 * THI
-  * Cannon is always available to open
+  * Cannon is always available to open (and has no cutscene)
 * RR
   * Cannon is always available to open
 * Wing Mario Over the Rainbow
@@ -129,7 +129,7 @@ Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in th
 Collect at least X stars from Y different stages. The possibilities are:
 * 2 stars from 8/9/10/11/12 stages
 * 3 stars from 4/5/6/7/8 stages
-* 4 stars from 3/4/5/6 stages (removed 7, 6/7 -_- was not listed here before)
+* 4 stars from 3/4/5/6 stages (removed 7, 6/7 was missing before)
 
 </details>
 
@@ -141,7 +141,7 @@ Collect at least one star in all 15 stages. This can be any star.
 </details>
 
 <details>
-<summary>Collect 2 Stars from each stage in the castle lobby</summary>
+<summary>Collect 2 Stars from each stage in the lobby</summary>
 
 Collect 2 stars in each of these 5 stages: BOB, WF, JRB, CCM, BBH.
 
@@ -199,6 +199,18 @@ Collect all 7 Stars (including the 100 coin star) in [Stage A]. This goal can ap
 </details>
 
 <details>
+<summary>Star 1 from each stage in the lobby</summary>
+
+Collect Star #1 in the 5 lobby stages. These are:
+* BOB: Big Bob-omb on the Summit
+* WF: Chip off Whomp's Block
+* JRB: Plunder in the Sunken Ship
+* CCM: Slip Slidin' Away
+* BBH: Go on a Ghost Hunt
+
+</details>
+
+<details>
 <summary>Unlock the BOB and LLL Shells</summary>
 
 In order for the small Koopa to spawn in BOB, you need to collect stars 1 and 2 (BOB King and Koopa the Quick).
@@ -215,13 +227,6 @@ In order for the owl spawn in BOB, you need to collect stars 1 and 2 (WF King an
 </details>
 
 <details>
-<summary>All 3 Bully stars</summary>
-
-Collect the following 3 stars: Boil the Big Bully (LLL), Bully the Bullies (LLL), and Chill with the Bully (SL).
-
-</details>
-
-<details>
 <summary>Collect 2/3 Chest Stars</summary>
 
 Collect 2/3 treasure chest stars, which are Plunder in the Sunken Ship (JRB), Treasure of the Ocean Cave (JRB), and Chests in the Current (DDD).
@@ -229,21 +234,16 @@ Collect 2/3 treasure chest stars, which are Plunder in the Sunken Ship (JRB), Tr
 </details>
 
 <details>
-<summary>Collect 2 Jet Stream stars</summary>
+<summary>Collect 2 Jet Stream Stars</summary>
 
 Collect both "Into the Jet Stream (JRB)" and "Into the Jet Stream (DDD)".
 
 </details>
 
 <details>
-<summary>Star 1 from each stage in the castle lobby</summary>
+<summary>All 3 Bully Stars</summary>
 
-Collect Star #1 in the 5 lobby stages. These are:
-* BOB: Big Bob-omb on the Summit
-* WF: Chip off Whomp's Block
-* JRB: Plunder in the Sunken Ship
-* CCM: Slip Slidin' Away
-* BBH: Go on a Ghost Hunt
+Collect the following 3 stars: Boil the Big Bully (LLL), Bully the Bullies (LLL), and Chill with the Bully (SL).
 
 </details>
 
@@ -276,16 +276,16 @@ Collect both the [!] box star and the Under 21'0 star in PSS.
 </details>
 
 <details>
-<summary>Collect 2/3 Toad stars</summary>
+<summary>2/3 Toad stars</summary>
 
 Collect 2/3 Toad stars. The basement toad next to HMC spawns at 12 stars. The upstairs toad in front of TTM spawns at 25 stars. The tippy toad next to TTC spawns at 35 stars.
 
 </details>
 
 <details>
-<summary>Obtain 2/3 Cap Red Coin Stars</summary>
+<summary>2/3 Cap Red Coin Stars</summary>
 
-Obtain 2/3 Cap Red Coin Stars. You do not have to hit the cap switches.
+Collect 2/3 Cap Red Coin Stars. You do not have to hit the cap switches.
 
 </details>
 
@@ -323,13 +323,6 @@ Collect the red coin star in BOB.
 <summary>Mario Wings to the Sky (BOB)</summary>
 
 Collect the shiny secrets star in BOB. This requires Wing Cap and opening the cannon (on star 2 or later) unless you want to do some really hard flying / cannon shots.
-
-</details>
-
-<details>
-<summary>Red Coins on the Floating Isle (WF)</summary>
-
-Collect the red coin star in WF.
 
 </details>
 
@@ -460,13 +453,6 @@ Collect Mystery of the Monkey Cage in TTM. This requires collecting "Scale the M
 </details>
 
 <details>
-<summary>Scary 'Shrooms, Red Coins (TTM)</summary>
-
-Collect the red coin star in TTM.
-
-</details>
-
-<details>
 <summary>Rematch with Koopa the Quick (THI)</summary>
 
 Win the race against Koopa the Quick in THI and collect the star. This requires collecting Piranhas and Top of the Mountain and selecting star 3 or later.
@@ -474,30 +460,9 @@ Win the race against Koopa the Quick in THI and collect the star. This requires 
 </details>
 
 <details>
-<summary>Wiggler's Red Coins (THI)</summary>
-
-Collect the red coin star in THI.
-
-</details>
-
-<details>
 <summary>Make Wiggler Squirm (THI)</summary>
 
 Defeat the Wiggler mini-boss in THI and collect the star.
-
-</details>
-
-<details>
-<summary>Stop Time for Red Coins (TTC)</summary>
-
-Collect the red coin star in TTC.
-
-</details>
-
-<details>
-<summary>Coins Amassed in a Maze (RR)</summary>
-
-Collect the red coin star in RR.
 
 </details>
 
@@ -526,6 +491,20 @@ Collect the red coin star in the Secret Aquarium.
 <summary>Wing Mario Over the Rainbow</summary>
 
 Collect the red coin star in Wing Mario Over the Rainbow.
+
+</details>
+
+<details>
+<summary>Vanish Cap Red Coin Star</summary>
+
+Collect the Vanish Cap Under the Moat Red Coin Star.
+
+</details>
+
+<details>
+<summary>Metal Cap Red Coin Star</summary>
+
+Collect the Cavern of the Metal Cap Red Coin Star.
 
 </details>
 
