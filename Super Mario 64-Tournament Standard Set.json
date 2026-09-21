@@ -50,7 +50,9 @@
       "board_categories": [
         "lives"
       ],
-      "line_categories": [],
+      "line_categories": [
+        "lives"
+      ],
       "tooltip": "Reach {{X}} Lives on the HUD counter",
       "icons": [
         "sm64/1_up_mushroom.webp"
@@ -1514,6 +1516,7 @@
       ],
       "board_categories": [
         "secondfloor",
+        "superlate",
         "thirdfloor"
       ],
       "line_categories": [
@@ -2117,7 +2120,7 @@
       ]
     },
     {
-      "goal": "Footrace With Koopa the Quick (BOB)",
+      "goal": "Footrace with Koopa the Quick (BOB)",
       "range": [],
       "board_categories": [
         "mainfloor"
@@ -2683,40 +2686,41 @@
   ],
   "limits": {
     "board": {
-      "100coins": 25,
+      "100coins": 20,
       "allstars": 20,
-      "basement": 50,
-      "bowserreds": 12,
-      "cannons": 12,
+      "basement": 40,
+      "bowserreds": 10,
+      "cannons": 10,
       "lives": 20,
       "lockoutexclude": 100,
-      "mainfloor": 50,
-      "over100coins": 12,
-      "secondfloor": 50,
-      "superlate": 20,
-      "thirdfloor": 35
+      "mainfloor": 40,
+      "over100coins": 10,
+      "secondfloor": 40,
+      "superlate": 10,
+      "thirdfloor": 20
     },
     "line": {
       "bbh": 25,
       "bob": 25,
       "cannons": 25,
-      "castlesecrets": 40,
+      "castlesecrets": 50,
       "ccm": 25,
       "collectstars": 50,
       "ddd": 25,
       "hmc": 25,
       "jrb": 25,
+      "lives": 25,
       "lll": 25,
       "redcoins": 25,
       "rr": 25,
-      "singlestar": 45,
+      "singlestar": 50,
       "sl": 25,
       "ssl": 25,
-      "thi": 30,
-      "ttc": 20,
-      "ttm": 30,
-      "wdw": 30,
-      "wf": 30
+      "thi": 25,
+      "ttc": 25,
+      "ttm": 25,
+      "wdw": 25,
+      "wf": 25
     }
   }
 }
