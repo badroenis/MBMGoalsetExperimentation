@@ -7,7 +7,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## Overview
-This is a fork of YogoC's repo for the Multi-Bingo Mayhem 2026 tournament for experimenting with the SM64 bingo goal set. Feel free to make your own changes, preferably on a different branch.
+This is a fork of YogoC's [repo](https://github.com/YogoC/MultiBingoMayhem2026) for the Multi-Bingo Mayhem 2026 tournament for experimenting with the SM64 bingo goal set. Feel free to make your own changes, preferably on a different branch.
 
 The [Super Mario 64 Bingo Guide](https://docs.google.com/document/d/13cVrO2_c435ysJOeOyZMzo0AFFWDLGleZ5UTPoCDOxM/edit?tab=t.0#heading=h.3znysh7) has a lot of information about the general rules of the game, some goals that may not be super clear at first, and some routes that come up only in bingo. I highly recommend looking through it! 
 
